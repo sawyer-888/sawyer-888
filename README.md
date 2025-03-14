@@ -1,7 +1,3 @@
-<style>
-  body { background-color: black; }
-</style>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ff56f0b-1520-4020-a594-ad5f0f55a68d" width="200">
 </p>
