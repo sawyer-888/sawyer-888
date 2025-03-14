@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ff56f0b-1520-4020-a594-ad5f0f55a68d" width="200">
-</p>
-
 <h1 align="center">Hi, I am Sawyer8888</h1>
 
 <p align="center">
