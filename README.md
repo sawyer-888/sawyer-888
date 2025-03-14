@@ -6,4 +6,4 @@
 # Hi, I am Sawyer8888
 I am the #𝟭 𝗖𝗲𝗹𝗶𝗻𝗮 𝗧𝗲𝘅𝗮𝘀 𝗳𝗮𝗻, if you disagree we will have problems
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawyer-888&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawyer-888&layout=compact&hide=html)
